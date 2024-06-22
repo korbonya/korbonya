@@ -20,11 +20,11 @@ I am a Software Engineer with years of experience in web and mobile development.
 
 <b>My GitHub Stats</b>
 
-<p align="left">
+<p align="center">
 <a href="http://www.github.com/korbonya"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=korbonya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/korbonya" align="left"><img height=200 src="https://github-readme-stats-seven-roan-78.vercel.app/api/top-langs/?username=korbonya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&size_weight=0.5&count_weight=0.5&layout=compact&card_width=320" alt="Top Languages" /></a>
- <a href="http://www.github.com/korbonya"><img src="https://github-readme-stats-seven-roan-78.vercel.app/api?username=korbonya&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="korbonya's GitHub stats" /></a>
+ <a href="http://www.github.com/korbonya"><img src="https://github-readme-stats-seven-roan-78.vercel.app/api?username=korbonya&show_icons=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="korbonya's GitHub stats" /></a>
  
 </p>
 
