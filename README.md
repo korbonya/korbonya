@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=korbonya&color=green)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korbonya&theme=solarized_dark) 
+
 <picture>
   <source
     srcset="https://github-readme-stats-seven-roan-78.vercel.app/api?username=korbonya&show_icons=true&theme=dark"
