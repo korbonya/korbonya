@@ -7,4 +7,4 @@
 
 ![](https://komarev.com/ghpvc/?username=korbonya&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korbonya)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-seven-roan-78.vercel.app/api?username=korbonya)](https://github.com/anuraghazra/github-readme-stats)
