@@ -14,7 +14,7 @@ I am a Software Engineer with years of experience in web and mobile development.
 
 ![](https://komarev.com/ghpvc/?username=korbonya&color=green)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korbonya&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korbonya&theme=nord_dark	) 
 
 ### Badges
 
@@ -25,6 +25,12 @@ I am a Software Engineer with years of experience in web and mobile development.
 <a href="http://www.github.com/korbonya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=korbonya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/korbonya" align="left"><img src="https://github-readme-stats-seven-roan-78.vercel.app/api/top-langs/?username=korbonya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=korbonya&theme=nord_dark) 
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=korbonya&theme=nord_dark) 
+</p>
 
 ### Skills
 
