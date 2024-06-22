@@ -7,11 +7,9 @@
 
 ![](https://komarev.com/ghpvc/?username=korbonya&color=green)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korbonya&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korbonya&theme=github_dark) 
 
-[![Harlok's WakaTime stats](https://github-readme-stats-seven-roan-78.vercel.app/api/wakatime?username=korbonya)](https://github.com/korbonya/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-seven-roan-78.vercel.app/api/top-langs/?username=korbonya)](https://github.com/korbonya/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-roan-78.vercel.app/api/top-langs/?username=korbonya&theme=github_dark)](https://github.com/korbonya/github-readme-stats)
 
 <picture>
   <source
