@@ -11,6 +11,9 @@
 
 [![Top Langs](https://github-readme-stats-seven-roan-78.vercel.app/api/top-langs/?username=korbonya&theme=github_dark)](https://github.com/korbonya/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats-seven-roan-78.vercel.app/api/wakatime?username=korbonya)](https://github.com/korbonya/github-readme-stats)
+
+
 <picture>
   <source
     srcset="https://github-readme-stats-seven-roan-78.vercel.app/api?username=korbonya&show_icons=true&theme=dark"
